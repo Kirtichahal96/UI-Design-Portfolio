@@ -1,0 +1,12 @@
+{
+  "name": "ui-design-portfolio",
+  "version": "1.0.0",
+  "description": "\"Welcome to my GitHub UI Design Portfolio! 🎨 Explore my user-centric UI projects, spanning responsive web designs, interactive prototypes, and valuable design assets. Whether you're a developer, employer, or UI enthusiast, feel free to connect and craft exceptional user experiences! ✨\"",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC"
+}
